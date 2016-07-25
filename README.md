@@ -8,7 +8,7 @@ Sublime Avalon Completion Package
 -------
 how to use
 
-	1，git clone code to sublime 3/data/packages/AvalonHelper - 
+	1. git clone code to sublime 3/data/packages/AvalonHelper - 
 	
 	注意：一定是放在插件默认的安装目录下，比如是:
 		
@@ -31,8 +31,8 @@ how to use
 -------
 time line
 
-2015.8.18 - 添加配置功能、文档入口
+	2015.8.18 - 添加配置功能、文档入口
 
-2014.10.17 - 修复多次换行缩进 bug
+	2014.10.17 - 修复多次换行缩进 bug
 
-2014.10.20 - 添加 w[idget] 召唤出组件列表功能
+	2014.10.20 - 添加 w[idget] 召唤出组件列表功能
